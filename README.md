@@ -15,3 +15,6 @@ The aim of the project is to predict hotel reservation cancellations using data 
 ## Developers
 
 - [Anton Belyaev]([GitHub Profile Link](https://github.com/Ch3ekiBr3eki)https://github.com/Ch3ekiBr3eki)
+
+## Kaggle link
+- https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset
