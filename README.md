@@ -1,10 +1,11 @@
 # Hotel Reservations
 <p align="center">
-      <img src="https://i.ibb.co/LRT5CBz/dataset-cover.jpg" width="226">
+      <img src="https://i.ibb.co/LRT5CBz/dataset-cover.jpg" width="436">
 </p>
 
 <p align="center">
    <img src="https://img.shields.io/badge/Jupyter Notebook-blue" alt="python">
+   <img src="https://img.shields.io/badge/Kaggle-violet" alt="Kaggle">      
 </p>
 
 ## About
@@ -14,7 +15,7 @@ The aim of the project is to predict hotel reservation cancellations using data 
 
 ## Developers
 
-- [Anton Belyaev]([GitHub Profile Link](https://github.com/Ch3ekiBr3eki)https://github.com/Ch3ekiBr3eki)
+- [Anton Belyaev]([GitHub Profile Link](https://github.com/Ch3ekiBr3eki))
 
 ## Kaggle link
-- https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset
+- ([Kaggle dataset](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset))
