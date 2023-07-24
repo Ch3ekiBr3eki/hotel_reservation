@@ -1,6 +1,6 @@
 # Hotel Reservations
 <p align="center">
-      <img src="https://i.ibb.co/LRT5CBz/dataset-cover.jpg" width="436">
+      <img src="https://i.ibb.co/yFzB2Bj/pngwing-com-1.png" width="436">
 </p>
 
 <p align="center">
