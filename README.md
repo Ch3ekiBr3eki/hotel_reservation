@@ -14,8 +14,8 @@ The aim of the project is to predict hotel reservation cancellations using data 
 Цель проекта заключается в предсказании отмены бронирования отеля, используя данные из набора данных "Hotel Reservations Dataset" на платформе Kaggle. Ноутбук базовый анализ данных (EDA), включающий в себя описательные статистики и построение графиков, проба различных моделей машинного обучения для предсказания отмены бронирования, выводы о полученных скорах моделей, EDA и графиках, и предоставим рекомендации для оптимизации процесса бронирования и уменьшения отмены бронирования в будущем.
 
 ## Developers
-
 - [Anton Belyaev]([GitHub Profile Link](https://github.com/Ch3ekiBr3eki))
 
 ## Kaggle link
+- [Anton Belyaev]([Kaggle project Link](https://www.kaggle.com/code/antonbelyaevd/reservation-randforest-knn-logicarreg))
 - ([Kaggle dataset](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset))
